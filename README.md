@@ -1,2 +1,3 @@
-# Seminar-AI-in-logistics---programming-WiSe-22-23
-Final Project for AI course
+In this project, i am going to build a Python program that generates a random number between 1 and 100, and ask the user to guess the number. The program will provide feedback to the user on whether their guess was too high or too low, and keep track of the number of guesses it took the user to find the correct answer.
+The programme began by writing code that would generate a random number(added the input option).Then wrote the code that would compare the random number to the user's input. If the user guessed the correct number, the program would print out a message of congratulations and make the dfault sound of the PC.
+Then thought of a way to make the program more challenging. I decided to add a hint feature, which would give the user a clue about the correct number.I wrote code that would take the user's last guess, depending on whether the user was closer or further away from the correct answer.
